@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "75153007204",
+    "firebase_url": "https://firstappp-48d09-default-rtdb.firebaseio.com",
+    "project_id": "firstappp-48d09",
+    "storage_bucket": "firstappp-48d09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153007204:android:54dc2746b9d62c78e77571",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tma4_rZv-sBSqa88IOef3Cjfnv0u7fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75153007204:android:a7871028e08a5f2fe77571",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tma4_rZv-sBSqa88IOef3Cjfnv0u7fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
